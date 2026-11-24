@@ -1,0 +1,8 @@
+{
+  "name": "CeX PS4 Games Crawler \u0026 Bundle Builder",
+  "description": "Crawl CeX UK PS4 software prices, compare buy vs voucher vs cash trade-in values, and calculate bundle totals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
